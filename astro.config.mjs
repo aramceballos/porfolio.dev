@@ -11,5 +11,5 @@ export default defineConfig({
     webAnalytics: { enabled: true }
   }),
   integrations: [tailwind(), robotsTxt()],
-  site: 'https://porfolio.dev/'
+  site: 'https://aramceballos.com/'
 })
